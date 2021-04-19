@@ -10,6 +10,7 @@
   1. 變數宣告(int、float)
   2. 執行計算(四則運算、大小比較)  
   
+![image](https://github.com/ny9950610/OurC-interpreter/blob/main/example1.JPG)
 
 ## 第二部分
 可以執行更複雜的指令 但實際運算由提示輸出代替  
