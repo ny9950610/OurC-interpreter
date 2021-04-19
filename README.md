@@ -20,3 +20,5 @@
   3. 條件判斷和迴圈的處理
   4. function宣告&呼叫
   5. 五個特殊指令(ListAllFunctions()、ListFunction(char name[])、ListAllVariables()、ListVariable(char name[])、Done()
+
+![image](https://github.com/ny9950610/OurC-interpreter/blob/main/example2.JPG)
